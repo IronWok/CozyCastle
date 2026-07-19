@@ -59,7 +59,6 @@ sky_mode = 2
 
 [node name="CharacterBody3D" type="CharacterBody3D" parent="." unique_id=1754126260]
 script = ExtResource("3_wao7g")
-Speed = null
 FrontTexture = ExtResource("2_v6xgl")
 BackTexture = ExtResource("4_a55rf")
 LeftTexture = ExtResource("6_4fspg")
